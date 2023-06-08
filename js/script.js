@@ -59,7 +59,6 @@ createApp({
         stopAutoscroll(){
             clearInterval(this.autoScroll)
         }
-        
     },
 }).mount('#app');
     
